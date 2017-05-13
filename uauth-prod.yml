@@ -1,0 +1,10 @@
+
+# ===================================================================
+# JHipster Sample Spring Cloud Config.
+# ===================================================================
+
+# Property used on app startup to check the config server status
+configserver:
+    name: JHipster Registry config server uauth
+    status: Connected to the JHipster Registry config server, using https://github.com/jhipster/jhipster-registry-sample-config ! uauth
+    prova: ffffff
